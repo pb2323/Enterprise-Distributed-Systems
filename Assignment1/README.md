@@ -2,6 +2,8 @@
 
 This project is a web-based OCR (Optical Character Recognition) system that allows users to upload images and extract text using Azure's Computer Vision API.
 
+Project documentation report - [https://docs.google.com/document/d/12bFINw4jjF1u3INOXG_-5HugeatJ4NRHl9PXrZELy40/edit?usp=sharing](https://docs.google.com/document/d/12bFINw4jjF1u3INOXG_-5HugeatJ4NRHl9PXrZELy40/edit?usp=sharing)
+
 ## Features
 
 - Image upload functionality
